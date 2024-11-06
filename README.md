@@ -1,2 +1,3 @@
-**Xin chào cả nhà, mình là Minh Thư**
-# WELCOME TO MY WORLD #
+## <font color="blue"> TRAINEE PROGRAM 2024 </font> ##
+> My new journey
+
