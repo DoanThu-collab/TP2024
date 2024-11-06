@@ -1,3 +1,2 @@
-## <font color="blue"> TRAINEE PROGRAM 2024 </font> ##
+## TRAINEE PROGRAM 2024 ##
 > My new journey
-
